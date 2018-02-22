@@ -39,6 +39,7 @@ body {
 .imgas {
   width: 100px;
   height: 100px;
+  margin: 0;
   display: block;
   vertical-align: middle;
   margin-left: auto;
